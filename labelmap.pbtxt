@@ -1,0 +1,330 @@
+item {
+    id: 1
+    name: 'R_1_D_empty'
+}
+item {
+    id: 2
+    name: 'R_1_D_stripe'
+}
+item {
+    id: 3
+    name: 'R_1_D_full'
+}
+item {
+    id: 4
+    name: 'R_1_O_empty'
+}
+item {
+    id: 5
+    name: 'R_1_O_stripe'
+}
+item {
+    id: 6
+    name: 'R_1_O_full'
+}
+item {
+    id: 7
+    name: 'R_1_S_empty'
+}
+item {
+    id: 8
+    name: 'R_1_S_stripe'
+}
+item {
+    id: 9
+    name: 'R_1_S_full'
+}
+item {
+    id: 10
+    name: 'R_2_D_empty'
+}
+item {
+    id: 11
+    name: 'R_2_D_stripe'
+}
+item {
+    id: 12
+    name: 'R_2_D_full'
+}
+item {
+    id: 13
+    name: 'R_2_O_empty'
+}
+item {
+    id: 14
+    name: 'R_2_O_stripe'
+}
+item {
+    id: 15
+    name: 'R_2_O_full'
+}
+item {
+    id: 16
+    name: 'R_2_S_empty'
+}
+item {
+    id: 17
+    name: 'R_2_S_stripe'
+}
+item {
+    id: 18
+    name: 'R_2_S_full'
+}
+item {
+    id: 19
+    name: 'R_3_D_empty'
+}
+item {
+    id: 20
+    name: 'R_1_D_stripe'
+}
+item {
+    id: 21
+    name: 'R_1_D_full'
+}
+item {
+    id: 22
+    name: 'R_3_O_empty'
+}
+item {
+    id: 23
+    name: 'R_3_O_stripe'
+}
+item {
+    id: 24
+    name: 'R_3_O_full'
+}
+item {
+    id: 25
+    name: 'R_3_S_empty'
+}
+item {
+    id: 26
+    name: 'R_3_S_stripe'
+}
+item {
+    id: 27
+    name: 'R_3_S_full'
+}
+
+
+
+item {
+    id: 28
+    name: 'G_1_D_empty'
+}
+item {
+    id: 29
+    name: 'G_1_D_stripe'
+}
+item {
+    id: 30
+    name: 'G_1_D_full'
+}
+item {
+    id: 31
+    name: 'G_1_O_empty'
+}
+item {
+    id: 32
+    name: 'G_1_O_stripe'
+}
+item {
+    id: 33
+    name: 'G_1_O_full'
+}
+item {
+    id: 34
+    name: 'G_1_S_empty'
+}
+item {
+    id: 35
+    name: 'G_1_S_stripe'
+}
+item {
+    id: 36
+    name: 'G_1_S_full'
+}
+item {
+    id: 37
+    name: 'G_2_D_empty'
+}
+item {
+    id: 38
+    name: 'G_2_D_stripe'
+}
+item {
+    id: 39
+    name: 'G_2_D_full'
+}
+item {
+    id: 40
+    name: 'G_2_O_empty'
+}
+item {
+    id: 41
+    name: 'G_2_O_stripe'
+}
+item {
+    id: 42
+    name: 'G_2_O_full'
+}
+item {
+    id: 43
+    name: 'G_2_S_empty'
+}
+item {
+    id: 44
+    name: 'G_2_S_stripe'
+}
+item {
+    id: 45
+    name: 'G_2_S_full'
+}
+item {
+    id: 46
+    name: 'G_3_D_empty'
+}
+item {
+    id: 47
+    name: 'G_3_D_stripe'
+}
+item {
+    id: 48
+    name: 'G_3_D_full'
+}
+item {
+    id: 49
+    name: 'G_3_O_empty'
+}
+item {
+    id: 50
+    name: 'G_3_O_stripe'
+}
+item {
+    id: 51
+    name: 'G_3_O_full'
+}
+item {
+    id: 52
+    name: 'G_3_S_empty'
+}
+item {
+    id: 53
+    name: 'G_3_S_stripe'
+}
+item {
+    id: 54
+    name: 'G_3_S_full'
+}
+
+
+
+item {
+    id: 55
+    name: 'P_1_D_empty'
+}
+item {
+    id: 56
+    name: 'P_1_D_stripe'
+}
+item {
+    id: 57
+    name: 'P_1_D_full'
+}
+item {
+    id: 58
+    name: 'P_1_O_empty'
+}
+item {
+    id: 59
+    name: 'P_1_O_stripe'
+}
+item {
+    id: 60
+    name: 'P_1_O_full'
+}
+item {
+    id: 61
+    name: 'P_1_S_empty'
+}
+item {
+    id: 62
+    name: 'P_1_S_stripe'
+}
+item {
+    id: 63
+    name: 'P_1_S_full'
+}
+item {
+    id: 64
+    name: 'P_2_D_empty'
+}
+item {
+    id: 65
+    name: 'P_2_D_stripe'
+}
+item {
+    id: 66
+    name: 'P_2_D_full'
+}
+item {
+    id: 67
+    name: 'P_2_O_empty'
+}
+item {
+    id: 68
+    name: 'P_2_O_stripe'
+}
+item {
+    id: 69
+    name: 'P_2_O_full'
+}
+item {
+    id: 70
+    name: 'P_2_S_empty'
+}
+item {
+    id: 71
+    name: 'P_2_S_stripe'
+}
+item {
+    id: 72
+    name: 'P_2_S_full'
+}
+item {
+    id: 73
+    name: 'P_3_D_empty'
+}
+item {
+    id: 74
+    name: 'P_3_D_stripe'
+}
+item {
+    id: 75
+    name: 'P_3_D_full'
+}
+item {
+    id: 76
+    name: 'P_3_O_empty'
+}
+item {
+    id: 77
+    name: 'P_3_O_stripe'
+}
+item {
+    id: 78
+    name: 'P_3_O_full'
+}
+item {
+    id: 79
+    name: 'P_3_S_empty'
+}
+item {
+    id: 80
+    name: 'P_3_S_stripe'
+}
+item {
+    id: 81
+    name: 'P_3_S_full'
+}
